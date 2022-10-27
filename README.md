@@ -6,6 +6,11 @@ Analysis, statistical testing and visualization of the suitability of different 
 - Two sample students t-test & welsh test
 - Non-parametric monte-carlo permutation test
 
+## 3. Focus areas
+- Data Wrangling
+- Data Visualization
+- Hypothesis Testing
+
 ## 3. Motivation and Procedure
 In medicine, occasional needs for artificially grown bone structures may arise, yielding a need to research
 best possible materials to use, such that optimal solutions can be fielded across care units.
